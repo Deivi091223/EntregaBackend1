@@ -14,7 +14,7 @@ public class Exc35 {
         }
         for(i=numeros.length-1;i>=0;i--){
             j++;
-            System.out.println("Posicion " + j + ": "+ numeros[i]);
+            System.out.println("Numero " + j + ": "+ numeros[i]);
         }
     }
 }
